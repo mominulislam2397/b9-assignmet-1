@@ -64,6 +64,7 @@
   background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
   width: 1320px;
   height: 600px;
+  border-radius: 15px;
 }
 .party-title{
   color: #FFF;
@@ -84,6 +85,7 @@
   padding-left: 126px;
   padding-right: 490px;
   padding-top: -10px;
+  gap: 45;
 }
 .party-btn{
   margin-top:45px;
@@ -91,7 +93,6 @@
   font-family: 'Inter', sans-serif;
   font-size: 15px;
   font-weight: 700;
-  text-transform: uppercase;
   
 }
 .twenty-foure{
@@ -102,7 +103,55 @@
   margin-left: 850px ;
   flex-direction: column;
   align-items: center;
+}
+
+/* join now date time  */
+.joi-time{
+  text-align: center;
+  border-radius: 15px;
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+  width: 1320px;
+  height: 482px;
+  margin: auto;
   
+}
+
+
+
+.from-date{
+  color: #F00;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.date-title{
+  color: #070211;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+  padding-top: 100px;
+}
+.join-btn{
+  border-radius: 8px;
+  background: #F00;
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
 }
 
 
