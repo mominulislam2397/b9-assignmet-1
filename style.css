@@ -18,7 +18,6 @@
 }
 .banner-title-descrip{
   color: #FFF;
-  text-align: center;color: #FFF;
   text-align: center;
   font-family: Merriweather;
   font-size: 72px;
@@ -52,7 +51,59 @@
   font-weight: 700;
   margin-top: 15px;
 }
+/* party 2024 */
 
+.party-2024{
+  background-image: url("resources/Vectorrr.png");
+  width: 1320px;
+  height: 600px;
+  margin: 120px auto;
+}
+
+.party-leniar{
+  background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+  width: 1320px;
+  height: 600px;
+}
+.party-title{
+  color: #FFF;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 7.04px;
+  padding-left: 126px;
+  padding-top: 126px;
+}
+.party-description{
+  color: rgba(255, 255, 255, 0.80);
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px; 
+  padding-left: 126px;
+  padding-right: 490px;
+  padding-top: -10px;
+}
+.party-btn{
+  margin-top:45px;
+  margin-left: 150px;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  
+}
+.twenty-foure{
+  display: flex;
+  width: 315px;
+  height: 460px;
+  margin-top: -495px;
+  margin-left: 850px ;
+  flex-direction: column;
+  align-items: center;
+  
+}
 
 
 
