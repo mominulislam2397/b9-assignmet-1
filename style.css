@@ -215,10 +215,64 @@
   font-family: Inter;
   font-size: 20px;
   font-weight: 400;
-  line-height: 32px; 
+  line-height: 32px;  
+}
+/* hoy */
+.what{color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 750px;
+}
+.holy{
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  margin-left: 600px;
+}
+.holy-red{
+  color: #F00;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+}
+.holy-description{
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  line-height: 32px;
+  margin-left: 550px;
+  margin-right: 400px;
+}
+/* gift */
+.gift{
+  color: #F00;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 140px;
+  margin-right: 890px;
   
 }
-
+.our{
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-left: 140px;
+}
+.gift-description{
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-left: 140px;
+  margin-right: 560px; 
+}
 
 
 
